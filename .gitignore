@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.tmp-video-transcribe/
+build/
+dist/
+releases/
+*.db
+*.sqlite3
+
